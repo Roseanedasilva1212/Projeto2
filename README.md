@@ -17,3 +17,5 @@ O objetivo deste portfólio é apresentar uma visão geral do meu trabalho e com
 - Inteligência Artificial: utilizada para brainstorming, escrita de textos e otimização de ideias.
 
 ## 🌟 Link do projeto
+
+https://roseanedasilva1212.github.io/Portfolio/
